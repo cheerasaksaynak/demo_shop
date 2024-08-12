@@ -1,3 +1,3 @@
 # demo_shop
 
-A new Flutter project.
+โปรเจคสาธิตการ พัฒนาแอปพลิเคชันด้วย flutter
